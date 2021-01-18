@@ -1,0 +1,1 @@
+# stringopration.js
